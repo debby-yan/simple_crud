@@ -6,7 +6,7 @@ setelah membuat database lalu kita sambungkan database dan kodingan dengan cara 
 setelah membuat folder kita langsung membuka visual code 
 pertama-tama kita membuat folder di dalam folder , yang di beri nama (config) 
 lalu di dalam config berisi file yang bernama (database_conection.php) dan isi file tersebut 
-setelah selesai menyambungkan database dan kodingan kita lanjutkan membuat (head.php & dashboard.php) yaitu halaman utama dan (foot.php)
+setelah selesai menyambungkan database dan kodingan kita lanjutkan membuat folder yang bernama (template) setelah itu kita buat file yang bernama (head.php & dashboard.php) yaitu halaman utama dan (foot.php) (dashboard.php) tidak masuk kedalam folder (template)
 setelah itu kita lanjutkan membuat (create_user.php) yaitu register
 jika sudah selesai membuat kodingan register kita lanjut membuat (index.php) yaitu login 
 jika sudah membuat kodingan logindan register setelah 2 kodingan tersebut nyambung kita lanjut membuat (user_show.php) yaitu manajemen 
